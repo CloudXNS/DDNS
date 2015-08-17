@@ -1,15 +1,6 @@
 # DDNS
 DDNS script based on cloudxns and taobaoip
-You need to set 
-
-api_url = "https://www.cloudxns.net/api2/record/RECORD_ID"
-api_key = "API_KEY"
-api_secret = "API_SECRET"
-Domain_ID = DOMAIN_ID
-ttl = 120
-line_id = 1
-host = "HOST"
-Domain_type = "A"
+You need to set api_url,api_key,api_secret,Domain_ID,ttl,line_id,host,Domain_type.
 
 Here is an example:
 api_url = "https://www.cloudxns.net/api2/record/2387630"
